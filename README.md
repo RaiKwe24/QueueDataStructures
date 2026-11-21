@@ -154,5 +154,3 @@ Please keep changes focused, use clear names, and preserve the existing priority
 ## License
 
 This project is available under the [MIT License](LICENSE.txt).
-
-Copyright © 2026 Raisibe
